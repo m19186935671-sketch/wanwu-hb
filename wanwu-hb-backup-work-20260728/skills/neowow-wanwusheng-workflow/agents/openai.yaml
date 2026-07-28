@@ -1,0 +1,4 @@
+interface:
+  display_name: "Neowow 万物生工作流"
+  short_description: "复刻万物生式 AI 视频画布生产流和色卡垫图方法模板"
+  default_prompt: "Use $neowow-wanwusheng-workflow to design a Wanwusheng-style AI video canvas workflow with prompts, reference images, and color cards."
