@@ -1,0 +1,4 @@
+interface:
+  display_name: "Neowow 之ai表情管理"
+  short_description: "Convert drama emotions into actor-like micro-expression prompts."
+  default_prompt: "Use this skill to turn emotional beats in a Wanwusheng-style drama prompt into visible actor-like expression, gaze, breath, hand, and body details."
